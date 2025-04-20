@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">QuestKeyfiles</string>
+    <string name="keyboard_layouts_label">Custom</string>
+    <string name="keyboard_layout_en_us_label">English (US), Custom</string>
+    <string name="keyboard_layout_de_de_label">German (DE), Custom</string>
 </resources>
